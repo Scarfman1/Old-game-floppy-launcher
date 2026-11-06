@@ -17,3 +17,4 @@ If there is no floppy, kills the process trough win task manager
 
 -	How to add a game into this
 You get the game, preferably .exe and just add it into launcher.bat. I have good experience with DOSBox and ZDoom, if you prefer any other, be my guest (what can I do about it?)
+!!! DOSBox: the "DOSBox 0.74-3 Options.bat" is for some reason for all dosboxes, for automatic mount of EXEs/IMGs you have to edit "dosbox.conf" in each directory of each game
