@@ -1,6 +1,7 @@
 - intro
 this is a "simple" script that checks for specific .txt files and runs respective game. These games aren’t mine, I found them on abandonware websites.
 -disclaimer:
+these games aren't mine, I don't own them in any way and I'm sharing them without any intent to make producer lose money nor promote privacy, this is just a glorified school project. (Pls don't sue me)
 before this I didn't really know much about MS-DOS so AI helped me with lot of this (pls don't judge)
 -	How it works:
 The main launch script runs in launcher.bat. On winXP PCs hide.vbs is supposed to be put into startup folder in order to be functioning from the start. The hide.vbs is a small script to hide the checker window (if you want to see it, just open launcher.bat manually). HOWEVER, this makes the PC check floppy drive every 2 seconds, so it is quite hefty on the floppy drive itself.
